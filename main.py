@@ -295,6 +295,7 @@ def main(token, repo_name, issue_number=None, dir_name=BACKUP_DIR):
     me = get_me(user)
     repo = get_repo(user, repo_name)
     # add to readme one by one, change order here
+    print(f"token: {token}, repo_name: {repo_name}, issue_number: {issue_number}")
     add_md_header("README.md", repo_name)
     for func in [add_md_firends, add_md_top, add_md_recent, add_md_label, add_md_todo]:
         func(repo, "README.md", me)
