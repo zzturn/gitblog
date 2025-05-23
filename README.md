@@ -7,5 +7,5 @@ My personal blog([About Me](https://github.com/zzturn/gitblog/issues/282)) using
 ## 置顶文章
 - [个人日常记录的一次尝试](https://github.com/zzturn/gitblog/issues/1)--2025-05-22
 ## 最近更新
-- [一些工具收藏](https://github.com/zzturn/gitblog/issues/2)--2025-05-22
+- [一些工具收藏（持续更新）](https://github.com/zzturn/gitblog/issues/2)--2025-05-22
 - [个人日常记录的一次尝试](https://github.com/zzturn/gitblog/issues/1)--2025-05-22
